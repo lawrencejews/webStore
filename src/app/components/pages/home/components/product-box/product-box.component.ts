@@ -10,7 +10,7 @@ export class ProductBoxComponent implements OnInit {
   @Input() fullWidthMode = false;
 
   product: Product | undefined = {
-    id: 1,
+  id: 1,
   title: 'Sneakers',
   price: 150,
   category: 'shoes',
