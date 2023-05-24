@@ -1,5 +1,5 @@
 ## Web Store
-![Finance Dashboard](financeDashboard.png)
+![Angular Webstore](store.png)
 This is a webStore project with Angular using angular components, angular material, tailwind-css and stripe for payment when checking out selected items on an online store.
 - Make sure you have installed Angular-cli
 - Spanning up a project `ng new store --routing --skip-tests --minimal` plus `CSS file`.
